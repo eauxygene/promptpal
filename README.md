@@ -12,7 +12,9 @@ Si vous débutez, regarder comment elle est faite, inspirez vous, et trouvez d'a
 ------------------------
 
 Si vous avez une license utilisateur Microsoft 365 au sein de votre entreprise, vous devriez pouvoir l'installer.
-Il n'y a aucuns risques Cyber car cette applicaiton ne se connecte qu'à Sharepoint). Faites attention avant d'installer d'autres applications 
+
+Il n'y a aucuns risques Cyber car cette application ne se connecte qu'à Sharepoint :)
+Faites attention avant d'installer d'autres applications aux connexteurs qu'elles utilisent. Méfiez vous notamment s'il y a du Teams ou Outlook
 
 Regardez la vidéo disponible ici pour l'installer au sein de votre entreprise, vous ne devriez pas avoir besoin d'un informaticien et en 30 minutes max c'est fait :)
 
