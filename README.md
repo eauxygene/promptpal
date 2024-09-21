@@ -9,6 +9,7 @@ L'objectif de cette application sans chichi est surtout de vous initier sur un p
 
 Si vous débutez, regarder comment elle est faite, inspirez vous, et trouvez d'autres cas d'usage qui vous motivent pour vous y mettre :)
 
+Modop d'installation : https://www.youtube.com/watch?v=ulDSGMU1puQ
 ------------------------
 
 Si vous avez une license utilisateur Microsoft 365 au sein de votre entreprise, vous devriez pouvoir l'installer.
