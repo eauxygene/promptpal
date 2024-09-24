@@ -1,4 +1,4 @@
-# promptpal
+# PromptPal
 
 Cette application est une petite application low-code / no-code sans prétention développée sur la plateforme de Microsoft 365. Elle est moche, pas sexy, développée en 1h, mais elle fait le taf.  
 
