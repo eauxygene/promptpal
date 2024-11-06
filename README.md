@@ -2,10 +2,10 @@
 
 Cette application est une petite application low-code / no-code sans prétention développée sur la plateforme de Microsoft 365. Elle est moche, pas sexy, développée en 1h, mais elle fait le taf.  
 
-Elle vous permet de stocker vos prompts à utiliser dans les logiciels d'IA sans avoir a les ressaisir en permanence et permet de les mettre d'un seul bouton dans votre presse-papier.
+Elle vous permet de stocker vos prompts à utiliser dans les logiciels d'IA sans avoir à les ressaisir en permanence et permet de les mettre d'un seul bouton dans votre presse-papier.
 Vous pouvez l'utiliser pour vous ou la partager avec vos collègues afin de vous inspirer les uns les autres.
 
-L'objectif de cette application sans chichi est surtout de vous initier sur un petit cas d'usage a ce qu'est une applicaiton no-code  / low-code sur cette plateforme.
+L'objectif de cette application sans chichi est surtout de vous initier sur un petit cas d'usage a ce qu'est une application no-code/low-code sur cette plateforme.
 
 Si vous débutez, regarder comment elle est faite, inspirez vous, et trouvez d'autres cas d'usage qui vous motivent pour vous y mettre :)
 
